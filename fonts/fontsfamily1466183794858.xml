@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+  <fontFamily name="Fira Sans Book">
+    <normal>fonts/FiraSansBook/FiraSans-Book.ttf</normal>
+    <bold>fonts/FiraSansBook/FiraSans-Bold.ttf</bold>
+    <pdfEncoding>Cp1252</pdfEncoding>
+    <pdfEmbedded>true</pdfEmbedded>
+    <exportFonts>
+    </exportFonts>
+  </fontFamily>
+
+  <fontFamily name="Fira Sans Semi Bold">
+    <normal>fonts/FiraSansSemiBold/FiraSans-SemiBold.ttf</normal>
+    <pdfEncoding>Cp1252</pdfEncoding>
+    <pdfEmbedded>true</pdfEmbedded>
+    <exportFonts>
+    </exportFonts>
+  </fontFamily>
+
+  <fontFamily name="Fira Sans Regular">
+    <normal>fonts/FiraSansRegular/FiraSans-Regular.ttf</normal>
+    <pdfEncoding>Cp1252</pdfEncoding>
+    <pdfEmbedded>true</pdfEmbedded>
+    <exportFonts>
+    </exportFonts>
+  </fontFamily>
+
+</fontFamilies>
